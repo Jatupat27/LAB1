@@ -1,0 +1,10 @@
+C:\jatupat\jatupat\jatupat\bin\Debug\jatupat.exe.config
+C:\jatupat\jatupat\jatupat\bin\Debug\jatupat.exe
+C:\jatupat\jatupat\jatupat\bin\Debug\jatupat.pdb
+C:\jatupat\jatupat\jatupat\obj\Debug\jatupat.csproj.AssemblyReference.cache
+C:\jatupat\jatupat\jatupat\obj\Debug\jatupat.t.resources
+C:\jatupat\jatupat\jatupat\obj\Debug\jatupat.Properties.Resources.resources
+C:\jatupat\jatupat\jatupat\obj\Debug\jatupat.csproj.GenerateResource.cache
+C:\jatupat\jatupat\jatupat\obj\Debug\jatupat.csproj.CoreCompileInputs.cache
+C:\jatupat\jatupat\jatupat\obj\Debug\jatupat.exe
+C:\jatupat\jatupat\jatupat\obj\Debug\jatupat.pdb
